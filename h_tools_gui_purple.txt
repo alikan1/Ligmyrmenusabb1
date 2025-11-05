@@ -1152,7 +1152,7 @@ local function performDesyncLockdown(duration, onComplete)
     label.Text = ' LIGMYR is desync you'
     label.TextColor3 = Color3.fromRGB(128, 0, 128)
     label.Font = Enum.Font.GothamBold
-    label.TextSize = 75
+    label.TextSize = 65
     label.ZIndex = 10000
 
     local barBg = Instance.new('Frame', overlayGui)
