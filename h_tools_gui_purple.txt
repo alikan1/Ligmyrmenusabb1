@@ -2036,7 +2036,7 @@ local ProximityPromptService = game:GetService('ProximityPromptService')
 
 -- Estado principal
 local sfActive = false
-local sfFloatSpeed = 41
+local sfFloatSpeed = 60
 local sfAttachment, sfAlignPosition, sfAlignOrientation, sfLinearVelocity
 
 -- Conexões
