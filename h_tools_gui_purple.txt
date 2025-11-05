@@ -1149,7 +1149,7 @@ local function performDesyncLockdown(duration, onComplete)
     label.Size = UDim2.new(1, 0, 0, 120)
     label.Position = UDim2.new(0, 0, 0.45, -60)
     label.BackgroundTransparency = 1
-    label.Text = ' LİGMYR is desync you'
+    label.Text = ' LIGMYR is desync you'
     label.TextColor3 = Color3.fromRGB(128, 0, 128)
     label.Font = Enum.Font.GothamBold
     label.TextSize = 60
