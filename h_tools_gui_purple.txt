@@ -871,7 +871,7 @@ panel.Name = 'ligmyr TOOLS'
 panel.BackgroundColor3 = Color3.fromRGB(0, 0, 0) -- black background
 panel.BackgroundTransparency = 0
 panel.BorderSizePixel = 0
-panel.Size = UDim2.new(0, 95, 0, 420) -- super slim and tall design
+panel.Size = panel.Size = UDim2.new(0, 70, 0, 550)
 panel.Position = UDim2.new(0.5, 140, 0.5, -130)
 panel.Visible = true
 local panelCorner = Instance.new('UICorner', panel)
